@@ -1,0 +1,9 @@
+# Arquivos temporários e de edição
+*~
+*.swp
+.DS_Store
+.vscode/
+
+# Artefatos de sistema
+Thumbs.db
+Desktop.ini
